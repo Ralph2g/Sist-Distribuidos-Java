@@ -8,3 +8,5 @@ public class ServidorRMI{
     Naming.rebind(url,obj);
   }
 }
+//1099
+//Puerto_1099
